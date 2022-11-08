@@ -66,7 +66,7 @@ int main()
                 printf("Successfully Inserted !!");
             else
                 printf("Inserted but another username deleted !!");
-
+            option = 1;
             while (option != 0)
             {
                 printf("\n1 ~ Insert another username\n2 ~ Lookup for username\n3 ~ Delete a username\n0 ~ Quit\nEnter option: ");
