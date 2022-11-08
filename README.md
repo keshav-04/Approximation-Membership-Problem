@@ -7,10 +7,10 @@ In this project, we are mainly doing the "Approximation membership problem". Her
 
 * Description of files:
 
-main.c ~ It is mainly a driver file to run and implement the application(operations) of the given three header files.
-qf.h ~ Header file for Quotient filter, have functions for different operations related to quotient filter.
-bf.h ~ Header file for Bloom filter.
-cf.h ~ Header file for Cuckoo filter.
+  . main.c ~ It is mainly a driver file to run and implement the application(operations) of the given three header files.
+  . qf.h ~ Header file for Quotient filter, have functions for different operations related to quotient filter.
+  . bf.h ~ Header file for Bloom filter.
+  . cf.h ~ Header file for Cuckoo filter.
 
 * How to run code:
  In this one just have to run the main file, keeping the rest library files in the same folder. While running the main.c file, user should first input the first option   to choose the dataset according to the options shown in command line. Then after choosing the type of data set, user have to provide some inputs according to his/her     choice. 
