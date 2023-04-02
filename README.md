@@ -1,5 +1,5 @@
 # Approximation Membership Problem
-  (CS201-pproject)
+  (CS201-project)
 
 
 In this project, we are mainly doing the "Approximation membership problem". Here, we discussed three methods for solving this problem, which are:
